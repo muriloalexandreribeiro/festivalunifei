@@ -1,6 +1,8 @@
 # Festival UNIFEI: Sistema de Gerenciamento de Filas
 
 ### Projeto para a Professora Bárbara
+Saniele Machado Batista 2025014707
+Murilo Alexandre Ribeiro 2025002297
 
 ---
 
